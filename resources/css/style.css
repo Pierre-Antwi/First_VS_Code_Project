@@ -1,0 +1,12 @@
+img[src*='https'] {
+    height:500px;
+    width: 500px;
+}
+
+body{
+    background-color:rgba(0, 0, 0, 0.527);
+}
+
+.visuals{
+    display:inline-block;
+}
